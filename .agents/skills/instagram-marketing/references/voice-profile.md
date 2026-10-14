@@ -9,53 +9,59 @@ ignored.
 
 ## Status
 
-- filled: no
-- source: template
-- updated: --
+- filled: yes
+- source: user rules (PRANA Training Studio)
+- updated: 2026-10-14
 
 ## 1. Voice fingerprint
 
-- Sentence rhythm:
-- Signature openers:
-- Punctuation habits:
-- Words and phrases you use a lot:
-- Words and phrases you NEVER use:
-- Emoji:
-- Formatting (Instagram): hook in the first line before the fold; hashtags in first comment; Reels vs carousel
+- Language: español de México, tuteo, cercano y amigable; evitar tecnicismos (decir "sin pila" antes que "bajo rendimiento").
+- Sentence rhythm: frases cortas, una idea por línea, espacios entre bloques.
+- Signature openers: ver regla de hooks en sección 3.
+- Punctuation habits: comillas para marcar lo que "parece" bueno ('saludable', "comer sano").
+- Words and phrases you use a lot: (pendiente: aprender de captions reales)
+- Words and phrases you NEVER use: tecnicismos sin explicar; frases de vendedor.
+- Emoji: 0-2 por caption, con intención.
+- Formatting (Instagram): hook antes del "más" (125 caracteres); 3-5 hashtags al final.
 
 ## 2. Who you are and who you write for
 
-- You are:
-- Your audience (ICP):
-- Your content pillars:
+- You are: PRANA Training Studio (CDMX), coach Víctor Enríquez. Programas: Hybrid Training, Upper Strength, Low Strength, Prana Run, Stretch, HYROX Engine.
+- Your audience (ICP): comunidad de PRANA y gente en CDMX que entrena o quiere empezar (fuerza, carrera, HYROX).
+- Your content pillars: 5 pilares (nombres pendientes de confirmar).
+- Voice per post (rotan en cada pilar):
+  - **Coach**: enseña. Explica el qué y el porqué, con autoridad pero sin tecnicismos.
+  - **Atleta**: lo vivió. Primera persona de un atleta real; nunca inventar historias ni datos.
+  - **Central-CTA**: mensaje unificador de PRANA que cierra el tema y lleva a la acción.
 
 ## 3. Hard rules (always / never)
 
-- Always:
-- Never:
+- Always: **hook irónico / contraintuitivo**. Presenta algo que parece bueno o normal pero en realidad juega en contra (o algo "malo" que en realidad funciona). Ejemplos de referencia:
+  - "Este hábito 'saludable' en realidad te está estancando."
+  - "Lamentablemente, correr en Z2 da resultados."
+- Always: cadencia de 3 posts por semana, en un ciclo de 4 semanas que rota los 5 pilares y las 3 voces.
+- Always: formato principal carrusel 3:4 (1080x1440).
+- Never: inventar cifras, resultados ni historias de atletas; si falta el dato, se pide.
+- Never: tono técnico o frío.
 
 ## 4. Links and CTA
 
-- Primary link you point people to:
-- Where it goes:
-- Your CTA style:
+- Primary link you point people to: (pendiente)
+- Where it goes: (pendiente)
+- Your CTA style: invitación cercana a comentar o platicar ("Cuéntame en comentarios y lo platicamos").
 
 ## 5. Signature examples
 
-Paste 2-4 of your own real Instagram lines or posts that sound most like you. The
-writing skills mirror the rhythm and word choice of these, not a generic voice.
-
--
--
--
+- "Este hábito 'saludable' en realidad te está estancando."
+- "¿Le tienes miedo a los carbos? Comenta y te ayudo a ver cómo ajustarlos a tu entrenamiento."
+- "Lamentablemente, correr en Z2 da resultados."
 
 ## 6. Brand assets (for illustrations)
 
-Used by the illustration step (`lib.illustrate`) to keep every generated image
-on-brand via a pixel-exact overlay. All optional; leave blank to skip the overlay.
-
-- Handle to stamp on images: (e.g. @yourname)
-- Brand color (hex): (e.g. #0A66C2)
-- Logo: (path or Pixfaro `logo_id`, if you have one)
-- Overlay position: (e.g. bottom-right)
-- Visual style default: (e.g. minimal flat vector; bold editorial; muted photo)
+- Handle to stamp on images: (pendiente)
+- Brand color (hex): fondo negro #000000; texto blanco #FFFFFF y gris
+- Typography: Bebas Neue (titulares) + DM Sans (cuerpo y etiquetas)
+- Format: carrusel 3:4, 1080x1440 px
+- Logo: (pendiente)
+- Overlay position: (pendiente)
+- Visual style default: minimalista, alto contraste, negro con tipografía blanca/gris; los carruseles se producen en el Artifact tipo Design
