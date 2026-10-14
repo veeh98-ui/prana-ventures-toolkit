@@ -53,3 +53,14 @@ propio público, unidos por el posicionamiento "base sólida".
 
 ## CTA y recurso
 "Comenta [PALABRA] y te respondo tu caso por privado." Recurso: respuesta personalizada.
+
+## Perfil de Instagram (@victoreqz)
+- Bio aprobada (2026-10-14):
+```
+Entreno la base para que puedas con lo que se te ponga enfrente
+10+ años · NSCA-CPT
+Maratón · HYROX · Alta montaña
+Coaching online 👇
+```
+- Nombre sugerido: Víctor Enríquez | Coach HYROX (pendiente de aplicar).
+- Pendiente: link en bio (WhatsApp/formulario), highlights, posts fijados, categoría, foto.
