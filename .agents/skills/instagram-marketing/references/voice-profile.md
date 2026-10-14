@@ -21,7 +21,7 @@ ignored.
 - Punctuation habits: comillas para marcar lo que "parece" bueno ('saludable', "comer sano").
 - Words and phrases you use a lot: (pendiente: aprender de captions reales)
 - Words and phrases you NEVER use: tecnicismos sin explicar; frases de vendedor.
-- Emoji: 0-2 por caption, con intención.
+- Emoji: solo con función clara; nada de emojis de relleno.
 - Formatting (Instagram): hook antes del "más" (125 caracteres); 3-5 hashtags al final.
 
 ## 2. Who you are and who you write for
@@ -48,6 +48,8 @@ ignored.
   - "Lamentablemente, correr en Z2 da resultados."
 - Always: cadencia de 3 posts por semana, en un ciclo de 4 semanas que rota los 5 pilares y las 3 voces.
 - Always: formato principal carrusel 3:4 (1080x1440).
+- Always: todo carrusel sigue `references/carousel-framework.md` (estructura de 10 slides, máx. 25 palabras por slide, CTA "Comenta [PALABRA]", autoevaluación ≥8). La ficha de marca vive en `references/brand-sheet.md`.
+- Never: frases motivacionales, lenguaje de gurú, emojis de relleno.
 - Never: inventar cifras, resultados ni historias de atletas; si falta el dato, se pide.
 - Never: tono técnico o frío.
 
