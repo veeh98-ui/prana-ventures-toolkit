@@ -19,8 +19,8 @@ ignored.
 - Sentence rhythm: frases cortas, una idea por línea, espacios entre bloques.
 - Signature openers: ver regla de hooks en sección 3.
 - Punctuation habits: comillas para marcar lo que "parece" bueno ('saludable', "comer sano").
-- Words and phrases you use a lot: (pendiente: aprender de captions reales)
-- Words and phrases you NEVER use: tecnicismos sin explicar; frases de vendedor.
+- Words and phrases you use a lot: "a darle", "equipo", "sin pila", "sin culpa", "lo platicamos"
+- Words and phrases you NEVER use: "tonificar" (solo para desmentirla), "quemar grasa", "sin dolor no hay ganancia", "no pain no gain", "fit", "transformación en 30 días"; tecnicismos; frases de vendedor.
 - Emoji: solo con función clara; nada de emojis de relleno.
 - Formatting (Instagram): hook antes del "más" (125 caracteres); 3-5 hashtags al final.
 
@@ -28,7 +28,7 @@ ignored.
 
 - You are: marca personal de Víctor Enríquez, coach (NSCA-CPT) en Xalapa, Veracruz, México. Es dueño de PRANA Training Studio, pero este contenido es de su marca personal, no del estudio.
 - Oferta a impulsar con Instagram: (b) programas personalizados / coaching 1 a 1 y (c) planes específicos para una prueba (maratón, HYROX, montaña). Precio y modalidad: pendientes.
-- Your audience (ICP): pendiente de la entrevista (ver `brand-sheet.md`).
+- Your audience (ICP): emprendedor de 25-35 años que ya entrena pero no mejora ("Entreno y no veo cambios"). Detalle completo en `brand-sheet.md`.
 - Posicionamiento central: no se especializa en una prueba. Entrena capacidades físicas generales (base sólida) y desde ahí arma programas específicos para objetivos puntuales. Mensaje: "No entreno para una prueba, entreno una base sólida, y por eso puedo afrontar lo que se me ponga enfrente."
 - Respaldo: años de trayectoria como coach, certificación NSCA-CPT y evidencia propia como atleta (maratón, HYROX, fuerza pesada, montaña). Usar solo datos que Víctor confirme.
 - Your content pillars (5):
@@ -58,7 +58,7 @@ ignored.
 
 - Primary link you point people to: (pendiente)
 - Where it goes: (pendiente)
-- Your CTA style: invitación cercana a comentar o platicar ("Cuéntame en comentarios y lo platicamos").
+- Your CTA style: "Comenta [PALABRA] y te respondo tu caso por privado."
 
 ## 5. Signature examples
 
