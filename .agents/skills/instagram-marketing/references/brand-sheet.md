@@ -10,7 +10,16 @@ Training Studio, pero este contenido es de su marca personal. Vende coaching onl
 Entrega online: plan en app/documento + revisión semanal por WhatsApp/videollamada.
 Precios: [pendiente].
 
-## Cliente ideal
+## Visión a largo plazo
+Todo el contenido construye audiencia para vender, más adelante, diferentes programas
+en una plataforma propia. Cada pilar es un futuro programa o línea de producto:
+Fitness General, Running (con HYROX), Fuerza (recomposición corporal, HYROX), Hiking/Outdoor y Nutrición.
+Por eso el contenido NO se limita al cliente de coaching 1 a 1: cada pilar le habla a su
+propio público, unidos por el posicionamiento "base sólida".
+- Usar una palabra de CTA distinta por pilar para medir qué programa genera más interés
+  (ej. CAMBIO = fuerza/recomposición; TIEMPO = running/HYROX).
+
+## Cliente ideal (coaching 1 a 1 y planes por prueba, la oferta actual)
 - Situación: emprendedor, 25-35 años. Ya entrena (gym por su cuenta sin plan + corre). Quiere bajar su tiempo en una prueba y verse mejor.
 - Dolor / frase textual: "Entreno y no veo cambios." En carreras: el tiempo no baja.
 - Ya intentó: correr más, planes genéricos/apps, copiar a otros, clases grupales intensas, solo fuerza o solo cardio.

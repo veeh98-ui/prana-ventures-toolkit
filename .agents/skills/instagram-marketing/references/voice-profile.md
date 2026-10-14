@@ -28,7 +28,8 @@ ignored.
 
 - You are: marca personal de Víctor Enríquez, coach (NSCA-CPT) en Xalapa, Veracruz, México. Es dueño de PRANA Training Studio, pero este contenido es de su marca personal, no del estudio.
 - Oferta a impulsar con Instagram: (b) programas personalizados / coaching 1 a 1 y (c) planes específicos para una prueba (maratón, HYROX, montaña). Precio y modalidad: pendientes.
-- Your audience (ICP): emprendedor de 25-35 años que ya entrena pero no mejora ("Entreno y no veo cambios"). Detalle completo en `brand-sheet.md`.
+- Visión: el contenido construye audiencia para una futura plataforma con programas por pilar; cada pilar le habla a su propio público (ver `brand-sheet.md`).
+- Your audience (ICP actual, coaching 1 a 1): emprendedor de 25-35 años que ya entrena pero no mejora ("Entreno y no veo cambios"). Detalle completo en `brand-sheet.md`.
 - Posicionamiento central: no se especializa en una prueba. Entrena capacidades físicas generales (base sólida) y desde ahí arma programas específicos para objetivos puntuales. Mensaje: "No entreno para una prueba, entreno una base sólida, y por eso puedo afrontar lo que se me ponga enfrente."
 - Respaldo: años de trayectoria como coach, certificación NSCA-CPT y evidencia propia como atleta (maratón, HYROX, fuerza pesada, montaña). Usar solo datos que Víctor confirme.
 - Your content pillars (5):
