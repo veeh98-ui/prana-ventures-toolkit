@@ -35,7 +35,7 @@ propio público, unidos por el posicionamiento "base sólida".
 
 ## Transformación y mecanismo
 - De: entrena de más, sin estructura, tiempo estancado. A: baja su tiempo, entrena menos horas y rinde más, sabe qué hacer cada día. En 3 meses.
-- Método **The Standard**: Evaluación (preguntas iniciales) → Preparación general (base sólida) → Preparación específica → Pre-competencia. Intensidad con zonas y RPE.
+- Método **The Standard** (AÚN NO PRESENTADO en redes: no mencionarlo por nombre en ningún contenido hasta publicar el post que lo introduzca; usar "con mis clientes" / "mi forma de trabajar"): Evaluación (preguntas iniciales) → Preparación general (base sólida) → Preparación específica → Pre-competencia. Intensidad con zonas y RPE.
 - Posicionamiento: "No entreno para una prueba, entreno una base sólida, y por eso puedo afrontar lo que se me ponga enfrente."
 
 ## Pruebas reales

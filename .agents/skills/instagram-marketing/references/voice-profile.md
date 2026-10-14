@@ -54,6 +54,7 @@ ignored.
 - Never: frases motivacionales, lenguaje de gurú, emojis de relleno.
 - Never: inventar cifras, resultados ni historias de atletas; si falta el dato, se pide.
 - Never: tono técnico o frío.
+- Never: mencionar "The Standard" por nombre hasta que se publique el post que presenta el método.
 
 ## 4. Links and CTA
 
